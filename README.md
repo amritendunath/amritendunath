@@ -19,3 +19,4 @@ Here are some ideas to get you started:
   <img aign="left" alt="AmritenduNath's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritendunath&layout=compact"/>
 </details>
 
+<img aign="left" alt="AmritenduNath's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritendunath&layout=compact"/>
