@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <summary>:zap: Github Stats</summary>
+<!--   <summary>:zap: Github Stats</summary> -->
   <img aign="left" alt="AmritenduNath's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritendunath&layout=compact"/>
 </details>
 
