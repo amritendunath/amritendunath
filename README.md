@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <details>
   <summary>:zap: Github Stats</summary>
-  <img aign="left" alt="AmritenduNath's Github Stats" src="[https://vercel.live/link/github-readme-stats-nu-liard-52.vercel.app?via=project-dashboard-alias-list&p=1](https://github-readme-stats.vercel.app/api/top-langs/?username=amritendunath&layout=compact)"/>
+  <img aign="left" alt="AmritenduNath's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritendunath&layout=compact"/>
 </details>
 
