@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://leetcard.jacoblin.cool/amritendunath?ext=heatmap)
+<a>
+  <img height=250 align="left" src="https://leetcard.jacoblin.cool/amritendunath?ext=heatmap"/>
+
+</a>
+<a>
+    <img height=250 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath"/>
+</a>
 
 <a href="https://github.com/amritendunath/github-readme-stats">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=amritendunath&show_icons=true&theme=transparent"/>
