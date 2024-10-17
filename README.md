@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img aign="left" alt="MyRepo's Github Stats" src="https://vercel.live/link/github-readme-stats-amritendunaths-projects.vercel.app?via=project-dashboard-alias-list&p=1" />
+</details>
