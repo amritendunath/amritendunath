@@ -41,15 +41,16 @@ Here are some ideas to get you started:
 <div align="center">
   <h2> </h2>
   <a>
-    <img align="center" src="https://streak-stats.demolab.com/?user=amritendunath&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=transparent"/>
+<!--     <img align="center" src="https://streak-stats.demolab.com/?user=amritendunath&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=transparent"/> -->
   </a>
 </div>
 
 
 <div>
   <a>
-     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
-     <img src="https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,dynamodb,spring,nodejs,expressjs"/>
+    <h2>Languages, Stacks, Tools</h2>
+<!--      <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/> -->
+     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,nodejs,expressjs,java,spring,python,django,mysql,postgresql,mongodb,dynamodb,git,github,aws,postman,vscode,sublime,docker,kubernetes,linux,jenkins,npm,notion,stackoverflow,discord,kafka,firebase"/>
     
   </a>
 </div>
