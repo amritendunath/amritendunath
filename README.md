@@ -38,5 +38,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div align="center">
+  <h2> </h2>
+  <a>
+    <img align="center" src="https://streak-stats.demolab.com/?user=amritendunath&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=transparent"/>
+  </a>
+</div>
+
+
 
 
