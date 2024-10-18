@@ -12,16 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a>
-  <img height=255 align="left" src="https://leetcard.jacoblin.cool/amritendunath?ext=heatmap"/>
-</a>
-<a>
-  <img height=255 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath&theme=transparent"/>
-</a>
+<div align="center">
+  <h1> LeetCode Info / CodeForce Info </h1>
+</div>
+<div align="center">
+  <a>
+    <img height=255 align="left" src="https://leetcard.jacoblin.cool/amritendunath?ext=heatmap"/>
+  </a>
+  <a>
+    <img height=255 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath&theme=transparent"/>
+  </a>
+</div>
 
-<a href="https://github.com/amritendunath/github-readme-stats">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=amritendunath&show_icons=true&theme=transparent"/>
-</a>
-<a href="https://github.com/amritendunath/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritendunath&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+
+<div align="center">
+  <h1> GitHub </h1>
+</div>
+
+<div align="center">
+  <a href="https://github.com/amritendunath/github-readme-stats">
+    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=amritendunath&show_icons=true&theme=transparent"/>
+  </a>
+  <a href="https://github.com/amritendunath/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritendunath&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>
+</div>
+
+
+
