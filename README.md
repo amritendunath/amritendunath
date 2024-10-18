@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <a>
     <h2>Languages, Stacks, Tools</h2>
 <!--      <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/> -->
-     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,nodejs,expressjs,java,spring,python,django,mysql,postgresql,mongodb,dynamodb,git,github,aws,postman,vscode,sublime,docker,kubernetes,linux,jenkins,npm,notion,stackoverflow,discord,kafka,firebase,figma"/>
+     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,nodejs,expressjs,java,spring,python,django,c,cpp,raspberrypi,mysql,postgresql,mongodb,dynamodb,git,github,aws,postman,vscode,sublime,docker,kubernetes,linux,jenkins,npm,notion,stackoverflow,discord,kafka,firebase,figma"/>
   </a>
 </div>
 
