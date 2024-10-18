@@ -1,5 +1,3 @@
-### Hi there 👋😄
-
 <!--
 **amritendunath/amritendunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <a>
   <img height=255 align="left" src="https://leetcard.jacoblin.cool/amritendunath?ext=heatmap"/>
-
 </a>
 <a>
     <img height=255 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath"/>
