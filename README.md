@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1> LeetCode Info / CodeForce Info </h1>
+  <h2> Leetcode / Codeforces </h2>
 </div>
 <div align="center">
   <a>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h1> GitHub </h1>
+  <h2> ⚡ Current Stats ⚡ </h2>
 </div>
 
 <div align="center">
