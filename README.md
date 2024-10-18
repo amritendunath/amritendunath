@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img height=255 align="left" src="https://leetcard.jacoblin.cool/amritendunath?ext=heatmap"/>
 </a>
 <a>
-    <img height=255 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath"/>
+  <img height=255 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath&theme=transparent"/>
 </a>
 
 <a href="https://github.com/amritendunath/github-readme-stats">
