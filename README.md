@@ -46,5 +46,10 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
+<div>
+  <a>
+     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
+     <img src="https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,dynamodb,spring,nodejs,expressjs"/>
+    
+  </a>
+</div>
