@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2> Leetcode / Codeforces </h2>
+  <h2> Leetcode Streak / Codeforces </h2>
 </div>
 <div align="center">
   <a>
