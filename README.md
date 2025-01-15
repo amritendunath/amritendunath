@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2> Leetcode Streak / Codeforces </h2>
+<!--   <h2> Leetcode Streak / Codeforces </h2> -->
+  <h2> Leetcode Streak </h2>
 </div>
 <div align="center">
   <a>
     <img height=255 align="left" src="https://leetcard.jacoblin.cool/amritendunath?ext=heatmap"/>
   </a>
   <a>
-    <img height=255 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath&theme=transparent"/>
+<!--     <img height=255 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=amritendunath&theme=transparent"/> -->
   </a>
 </div>
 
