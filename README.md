@@ -2,7 +2,6 @@
 **amritendunath/amritendunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067](https://github.com/user-attachments/assets/4f0bd68a-3e40-45c4-bd68-42137df9189d)
 
 - 🔭 I’m currently working on Chegg Inc.
 - 🌱 I’m currently learning Software Development Life Cycle
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  ![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067](https://github.com/user-attachments/assets/90ce1f67-72c1-41bd-9b6b-6ad3c213efb9)
+
 <!--   <h2> Leetcode Streak / Codeforces </h2> -->
   <h2> Leetcode Streak </h2>
 </div>
