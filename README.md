@@ -6,8 +6,13 @@
 
 ---
 
+<div align="center">
+
 ## Hi 👋, I'm Amritendu  
 A meticulous builder 👨‍💻, full-stack developer, and contest strategist.
+
+</div>
+
 
 - 🔭 Currently working on [Med44](https://yourprojectlink.com) — a multimodal AI-powered health assistant  
 - 🌱 Refining my contest strategy and prepping for GATE  
