@@ -47,7 +47,15 @@ A meticulous builder 👨‍💻, full-stack developer, and contest strategist.
 
 <div align="center">
   <h2>🤝 Connect with Me</h2>
-  <a href="https://linkedin.com/in/amritendu-nath">LinkedIn</a> • 
-  <a href="https://yourportfolio.com">Portfolio</a> • 
-  <a href="https://leetcode.com/amritendu-nath">LeetCode</a>
+<div align="center">
+  <a href="https://twitter.com/amritendunath" target="_blank">
+    <img width="36"  alt="image" src="https://github.com/user-attachments/assets/b04856b9-11ec-4af3-a8f5-1e2e307e51f5" />
+  </a>
+  <a href="https://linkedin.com/in/amritendunath" target="_blank">
+    <img width="36" alt="image" src="https://github.com/user-attachments/assets/6967591f-1319-4243-8908-ba4957c76cad" />
+  </a>
+  <a href="https://github.com/amritendunath" target="_blank">
+   <img width="36"  alt="image" src="https://github.com/user-attachments/assets/4eb5d80d-d063-45cd-ad81-f54d2be57872" />
+  </a>
+</div>
 </div>
