@@ -17,7 +17,7 @@ A meticulous builder 👨‍💻, full-stack developer, and contest strategist.
 - 🔭 Currently working on [Med44](https://www.med44.site) — a multimodal AI-powered health assistant  
 - 🌱 Refining my contest strategy and prepping for GATE  
 - 📫 Reach me at: **amritendunath1@gmail.com**  
-- 💬 Ask me about React.js, Tailwind, LangChain, or contest math tricks  
+- 💬 Ask me about React.js, FastAPI, LangChain, AWS or maths..
 - ⚡ Fun fact: I debug edge cases like they owe me money 😄  
 
 ---
